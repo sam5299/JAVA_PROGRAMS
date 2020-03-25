@@ -18,5 +18,6 @@ public class Fibonacci
             f = new Fibonacci ( );
             l = f.fibo (5); 
             System.out.println ("5th Fibonacci number is : "+1);
+            System.out.println ("5th Fibonacci number is : "+1);
         } 
 }
