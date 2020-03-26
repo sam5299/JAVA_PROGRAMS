@@ -1,4 +1,4 @@
-/*Write a class called ColourChecking. Define a color with red = 193, green=255 
+/*Program for  a class called ColourChecking. Define a color with red = 193, green=255 
 and blue = 183. No separate the rgb values. Find the Hue, saturation and brightness of this color.*/
 package Java_Lab7;
 import java.awt. *;
