@@ -1,4 +1,4 @@
-
+/* Find the Fibonacci numbers are defined as F0=1,F1=1 and Fi=Fi-1+Fi-2 for i >2. */
 package Java_Lab7;
 
 import java.util.*;
