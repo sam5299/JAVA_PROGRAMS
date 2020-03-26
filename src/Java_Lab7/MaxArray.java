@@ -1,3 +1,5 @@
+/*Find the maximum of an array. Let a[] be an array of integers. if n= 1,a[0] is the only number in the array and so, maximum = a[0]. 
+if n > 1 ,then do the following: find the maximum of n-1 entries of the array.Compare this maximum with the last entry a[n-1] and finalize.*/
 
 package Java_Lab7;
 
