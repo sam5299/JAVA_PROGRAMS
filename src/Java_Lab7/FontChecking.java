@@ -1,3 +1,5 @@
+/* Program to check the font class method as follows: Create a font TimesRoman bold and Italic size 12.
+In this object use the font methods.Then display the attributes of the font. */
 package Java_Lab7;
 
 import java.awt.*; 
