@@ -1,4 +1,4 @@
-
+//Give code  for multiple inheritance in Java.
 package Java_Lab6;
 import java.util.*;
 public class MultipleInheritance 
