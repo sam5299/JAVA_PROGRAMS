@@ -1,4 +1,7 @@
-
+/*9.2 Method Overriding
+ Create class box and box3d. box3d is extended class of box.  The above two classes going to pull fill following requirement  
+ Include constructor. set value of length, breadth, height.Find out area and volume. 
+*/
 package Java_Lab9;
 import java.util.*;
 public class Box 
