@@ -1,4 +1,6 @@
-
+/*9.1
+ A program to create automatic type conversions apply to overriding. 
+*/
 package Java_Lab9;
 import java.util.*;
 public class TypeConversionOverLoading 
@@ -11,6 +13,7 @@ public class TypeConversionOverLoading
     }
     void Sum (int a, int b)
     {
+        System.out.println ("with  parameters" );
         sum=a+b;
         System.out.println ("Sum="+sum );
     }
@@ -29,9 +32,9 @@ public class TypeConversionOverLoading
     {
         TypeConversionOverLoading obj = new TypeConversionOverLoading();
         Scanner sc=new Scanner(System.in);
-        System.out.println("Enter the a value ");
+        System.out.println("Enter the an integer value ");
         int a=sc.nextInt();
-        System.out.println("Enter the  b value");
+        System.out.println("Enter the  an integer  value");
         int b=sc.nextInt();
         obj.Sum();
         obj.Sum((double)a,(double)b);
