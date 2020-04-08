@@ -1,8 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+/*8.1
+A  class point with following instance variable and methods. 
+Instance variable:  private int x,y Constructors  :   public Point(), Point(int x, int y)  
+Methods : public void setX(int x), setY(int y), setXY(int x, int y) 
+*/
 package Java_Lab8;
 
 
