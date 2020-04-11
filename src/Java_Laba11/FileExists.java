@@ -14,4 +14,4 @@ public class FileExists
         System.out.println(f1.isDirectory() ? "file is a directory"  : "file is not a directory");
         System.out.println(f1.isFile()? "file is an ordinary file"  :  "file may be a named pipe") ;  
     }  
-}
+}                  
