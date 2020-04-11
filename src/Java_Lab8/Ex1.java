@@ -10,7 +10,7 @@ public class Ex1
 {
     public static void main(String args[])
     {
-        P1_Example e=new P1_Example();
+        P1_Example e=new P1_Example();    
         e.sum();
     }
-}
+}     

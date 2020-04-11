@@ -12,5 +12,6 @@ public class Circle
     {
         Example e=new Example();
         e.area();
+        
     }
 }
