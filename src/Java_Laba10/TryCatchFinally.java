@@ -24,7 +24,7 @@ public class TryCatchFinally
         catch(NegativeArraySizeException ne)
         {
             System.out.println(" generated exception : " + ne);   
-        }
+        }    
         finally
         {
             System.out.println(" Finally Block : ");

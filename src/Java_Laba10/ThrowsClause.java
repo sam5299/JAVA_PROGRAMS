@@ -17,7 +17,7 @@ public class ThrowsClause
             throwOne();
         }
         catch(InterruptedException ie)
-	{
+	{  
             System.out.println(" Generated Exception : " + ie);
         }
     }

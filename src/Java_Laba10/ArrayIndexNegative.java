@@ -23,7 +23,7 @@ public class ArrayIndexNegative
             {
                 a[i]= sc.nextInt();;
             }
-            System.out.println(" Array Elements : ");
+            System.out.println(" Array Elements : ");   
             for(int i=0;i<limit;i++)
             {
                 System.out.println(a[i]);

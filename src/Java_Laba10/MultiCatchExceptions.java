@@ -50,3 +50,4 @@ public class MultiCatchExceptions
         System.out.println(" After the try block"); 
     }
 }
+  

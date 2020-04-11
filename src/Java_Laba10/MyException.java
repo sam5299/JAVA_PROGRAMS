@@ -11,3 +11,4 @@ public class MyException extends Exception
         return "The number is not divisible by 2 ...";
     }
 }
+   

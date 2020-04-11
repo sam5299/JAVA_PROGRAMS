@@ -25,7 +25,7 @@ class DerivedClass extends BaseClass
     {
         Scanner sc = new Scanner(System.in);
         int limit;
-        System.out.println("Enter the array limit");
+        System.out.println("Enter the array limit");          
         limit = sc.nextInt();
         int a[]=new int[limit];
         
