@@ -12,7 +12,7 @@ public class Box
         lenght=l;
         breadth=b;
     }
-    void area()
+    void area()    
     {
         System.out.println("Area of Box is : "+(lenght*breadth));
     }
